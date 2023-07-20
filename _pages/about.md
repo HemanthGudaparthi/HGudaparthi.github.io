@@ -22,5 +22,5 @@ I am an assistant professor in the Department of Science, Maths and Technology a
 
 Prior to joining the Governors State University, I received my PhD from the University of Cincinnati studying Computer Science. I did my research on bridging vanilla software models and deep learning models using various methods like natural language processing, machine learning, problem frames and metamorphic testing. I currently am working on next release problem for stakeholders in various online application platforms. 
 
-My research interests include applied machine learning, deep learning, requirements engineering and developing context based algorithms. I'm also focussing on devloping AI models for Physics. Currently I'm using Hamilton equations as the weight functions in deep learning models to understand the many-body problem in quantum mechanics. I'm currently looking for interested students who wants to work on AI/software/AI4Phy models.
+My research interests include applied machine learning, deep learning, requirements engineering and developing context based algorithms. I'm also focussing on devloping AI models for Physics. Currently I'm using Hamiltonian equations as the weight functions in deep learning models to understand the many-body problem in quantum mechanics. I'm currently looking for interested students who wants to work on AI/software/AI4Phy models.
 
